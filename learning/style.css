@@ -1,0 +1,28 @@
+a[drabble]{
+    color: red;
+    /* font-family: "https://fonts.google.com/share?selection.family=Dosis:wght@200..800"; */
+}
+/* color hunt.co is the best website to select color */
+*{
+        font-family: "https://fonts.google.com/share?selection.family=Dosis:wght@200..800";
+
+
+    }
+    img{
+        float: left;
+    }
+    footer{
+        clear: left;
+    }
+    a{
+        justify-content: center;
+        font-size:xx-large ;
+        margin-left: 10%;
+    }
+        @media(max-width: 600px){
+      a{
+font-size: medium;
+margin-left: 5%;
+      }
+        }
+    
